@@ -1,0 +1,32 @@
+ body{
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+} 
+.container{
+    margin-top: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color:black;
+}
+.form-SNT{
+    padding: 10px 20px;
+    box-shadow: 1px 1px 5px 6px black;
+}
+.button_sum {
+	padding: 10px;
+    background: linear-gradient(to right, #56ccf2, #2f80ed);
+	color: black;
+    font-weight: bold;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.button_sum:hover {
+    color: white;
+    background: linear-gradient(to right, #a8a8a8, #3f3f3f);
+}
+
+#ketqua {
+	margin-top: 20px;
+	font-size: 1.5em;
+}
